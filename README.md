@@ -1,6 +1,6 @@
 # secrets
 Description:
-Welcome to the Secrets repository! This project provides a secure and anonymous platform where users can openly share their secrets while preserving their privacy. The website also offers Google email registration for users to create accounts and conveniently keep track of their shared secrets.
+Welcome to the Secrets repository! This project provides a secure and anonymous platform where user can openly share their secrets while preserving their privacy. The website also offers Google email registration for users to create accounts and conveniently keep track of their shared secrets.
 
 Key Features:
 Anonymous Secret Sharing: The Secrets Website allows users to share their secrets without revealing their identities, fostering a safe and confidential space for individuals to express themselves.
